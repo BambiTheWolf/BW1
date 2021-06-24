@@ -15,8 +15,7 @@ st.sidebar.text("What is the best business in Amsterdam?")
 st.sidebar.markdown("""We are going to present a series of graphs to you now, extracted from [Yelp]("https://www.yelp.com/") to help you choose the best business to invest in""")
 
 #Main page/header
-st.header("Amsterdam")
-st.subheader("How can you invest effectively")
+st.header("How can you invest effectively")
 
 #Main_text
 st.markdown
